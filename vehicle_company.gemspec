@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{A gem used for listing all the vehicle manufactures names.}
   # spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/rahulpattanshetty/vehicle_company"
   spec.license       = "MIT"
 
   spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
